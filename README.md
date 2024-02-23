@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maharshi17Barot
-- 👀 I’m interested in Web Devlopment and Machin learning
-- 🌱 I’m currently learning Computer proarmming and analysis at George Brown College (Canada)
-- 💞️ I’m looking to collaborate I don't kno what this thing means
+- 👀 I’m interested in and Machine learning
+- 🌱 I’m currently learning Computer programming and analysis at George Brown College (Canada)
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me You can just DM me
 
 <!---
